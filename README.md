@@ -1,6 +1,9 @@
 # 📊 Online E-commerce Sales Dashboard (Power BI)
 
-![Dashboard Preview](Sales_dashboad.png)
+<!-- Profile Banner GIF -->
+<p align="center">
+  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="900" height ="250" alt="Coding gif"/>
+</p>
 
 This is a Power BI visualization project developed using online e-commerce sales data. The dashboard offers key insights into revenue, profit, quantity sold, and customer behavior across different states, categories, and time.
 
