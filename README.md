@@ -2,7 +2,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/Online-E-commerce-Sales-Dashboard-Power-BI-/blob/main/Sales_dashboard.png" width="900" height ="250" alt="Coding gif"/>
+  <img src="https://github.com/SENARUL-2S/Online-E-commerce-Sales-Dashboard-Power-BI-/blob/main/Sales_dashboard.png" width="900" height ="350" alt="Coding gif"/>
 </p>
 
 This is a Power BI visualization project developed using online e-commerce sales data. The dashboard offers key insights into revenue, profit, quantity sold, and customer behavior across different states, categories, and time.
